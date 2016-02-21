@@ -6,7 +6,7 @@ Commit: (PUSH)
  {you will be redirected to Git repository on eclipse}
  3. right click on each java file, ex: DuplicateNumber.java
  4. click on COMMIT
- 5. follow below:
+ 5. follow below for commit cganges in git:
  	a. provide proper details in 'commit message'
  	b. click checkbok for your java file 
  	c. click on 'commit and push'
