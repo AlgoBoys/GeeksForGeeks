@@ -1,5 +1,12 @@
 package code.Ravi.mutilthreading;
 
+/**
+ * perform multiple tasks by multiple threads (multitasking in multithreading)
+ * by annonymous class that implements runnable interface
+ * 
+ * @author ravikson
+ * 
+ */
 public class MultiTaskingUsingAnonymousRunnableClass {
 
 	public static void main(String[] args) {
