@@ -1,6 +1,6 @@
-package code.Ravi.algo;
+package code.Ravi.mutilthreading;
 
-public class WithoutSynchronization {
+public class WithoutSynchronizationInJava {
 
 	public static void main(String args[]) {
 		TicketBooking obj = new TicketBooking();

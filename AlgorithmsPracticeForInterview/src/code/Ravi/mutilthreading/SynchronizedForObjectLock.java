@@ -1,4 +1,4 @@
-package code.Ravi.algo;
+package code.Ravi.mutilthreading;
 
 public class SynchronizedForObjectLock {
 	public static void main(String[] args) {

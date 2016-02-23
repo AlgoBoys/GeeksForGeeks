@@ -1,4 +1,4 @@
-package code.Ravi.algo;
+package code.Ravi.mutilthreading;
 
 import java.util.ArrayList;
 

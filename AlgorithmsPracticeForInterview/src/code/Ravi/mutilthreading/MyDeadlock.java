@@ -1,4 +1,4 @@
-package code.Ravi.algo;
+package code.Ravi.mutilthreading;
 
 /**
  * Write a program to create deadlock between two threads.
