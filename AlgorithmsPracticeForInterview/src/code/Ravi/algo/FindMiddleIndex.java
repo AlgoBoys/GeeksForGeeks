@@ -1,7 +1,7 @@
 package code.Ravi.algo;
 
 /**
- * Find out middle index where sum of both ends are equal - See more at:
+ * Find out middle index where sum of both ends are equal
  * 
  * @author ravikson
  * 
