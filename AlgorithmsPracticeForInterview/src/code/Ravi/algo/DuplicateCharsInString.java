@@ -4,7 +4,8 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * DuplicateCharsInString: Write a program to find out duplicate characters in a string.
+ * DuplicateCharsInString: Write a program to find out duplicate characters in
+ * string.
  * 
  * @author ravikson
  * 
@@ -14,11 +15,20 @@ import java.util.Map;
  */
 public class DuplicateCharsInString {
 
-	public static void main(String[] args) {
+	/**
+	 * 
+	 * @param args
+	 */
+	public static void main(final String[] args) {
 		duplicateCharacter("RaviKantSoniiii");
 	}
 
-	private static void duplicateCharacter(String str) {
+	/**
+	 * 
+	 * @param str
+	 *            The String
+	 */
+	private static void duplicateCharacter(final String str) {
 
 		char[] charArray = str.toCharArray();
 		Map<Character, Integer> map = new HashMap<>();
