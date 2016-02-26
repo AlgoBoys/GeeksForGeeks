@@ -2,7 +2,7 @@ package code.Kiran.algo;
 
 /**
  * 
- * @author Kiran.
+ * @author Kiran. 
  * sorting a given array by using selection sort technique.
  */
 public class Selection_sort {
