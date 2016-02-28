@@ -10,7 +10,7 @@ public class SqrtOfNum {
 
 	public static void main(String[] args) {
 		//int num = 9;
-		int num = 7;
+		int num = 1000003;
 		int sqtNum = (int) Math.sqrt(num);
 		System.out.println(sqtNum);
 	}
