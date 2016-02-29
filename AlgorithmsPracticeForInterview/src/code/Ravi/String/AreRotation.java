@@ -14,7 +14,7 @@ package code.Ravi.String;
  */
 public class AreRotation {
 
-	public static void main(String[] args) {
+	public static void main1(String[] args) {
 
 		String str1 = "ApapeeeA";
 		String str2 = "peeeAApa";
@@ -49,6 +49,29 @@ public class AreRotation {
 		} else {
 			System.out.println("False");
 		}
+	}
+
+	/**
+	 * Different solution
+	 * 
+	 * @description Create a temp string and store concatenation of str1 to str1
+	 *              in temp. (temp = str1.str1) If str2 is a substring of temp
+	 *              then str1 and str2 are rotations of each other.
+	 * 
+	 * @param args
+	 */
+	public static void main(String[] args) {
+
+		String str1 = "ApapeeeA";
+		String str2 = "peeeAApo";
+
+		if ((str1.length() == str2.length())
+				&& ((str2.concat(str2).contains(str1)))) {
+			System.out.println("Yes..rotation");
+		} else {
+			System.out.println("No...");
+		}
+
 	}
 
 }
