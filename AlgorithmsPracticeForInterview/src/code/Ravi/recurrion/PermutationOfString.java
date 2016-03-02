@@ -23,8 +23,6 @@ public class PermutationOfString {
 		permutation("123");
 	}
 
-	static int count = 0;
-
 	/**
 	 * A method exposed to client to calculate permutation of String in Java.
 	 */
