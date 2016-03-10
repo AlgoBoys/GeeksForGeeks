@@ -1,4 +1,4 @@
-package code.Shree.SeleniumWebdriver.Gmail;
+package code.Shree.SeleniumWebdriver;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
